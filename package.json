@@ -1,0 +1,22 @@
+{
+  "name": "prototype_object",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "power-doctest index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azu/prototype_object.git"
+  },
+  "keywords": [
+    "prototype"
+  ],
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/prototype_object/issues"
+  },
+  "homepage": "https://github.com/azu/prototype_object"
+}
