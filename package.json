@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/azu/prototype_object/issues"
   },
-  "homepage": "https://github.com/azu/prototype_object"
+  "homepage": "https://github.com/azu/prototype_object",
+  "devDependencies": {
+    "power-doctest": "~0.2.3"
+  }
 }
